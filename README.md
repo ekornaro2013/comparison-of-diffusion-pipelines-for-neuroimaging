@@ -11,7 +11,7 @@ https://docs.docker.com/desktop/
 Docker is a platform designed to help developers build, share, and run modern applications. We handle the tedious setup, so you can focus on the code. For a tutorial of how to use docker please read the following: 
 https://docs.docker.com/get-started/
 
-## Inputs (to be provided by the use in BIDS format):
+## Inputs (to be provided by the user in BIDS format):
 
 - a T1w image
 - a diffusion MRI acquisition (e.g. DTI or DKI)
