@@ -1,4 +1,4 @@
-## Neuroimaging scripts for processing diffusion MRI data:
+## Neuroimaging scripts for processing diffusion MRI data - comparison of different dMRI pipelines
 >[Evgenios N. Kornaropoulos: evgenios.kornaropoulos@med.lu.se]
 
 This is the workflow that we designed to compare different diffurion MRI neuroimaging pipelines that can be applied on both a single-shell and mutli-shell diffusion MRI acquisitions.
