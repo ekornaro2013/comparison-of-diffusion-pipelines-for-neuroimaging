@@ -11,6 +11,7 @@ ccases=$4 # this is a list of the types of DTI or DKI processing we are interest
 # Option 5 - "LPCA_Eddy"
 # Option 6 - "Gibbs_Eddy"
 # Option 7 - "LPCA_Gibbs_Eddy"
+# for example: ccases=["LPCA" "LPCA_Eddy"]
 acqp=$5 # a text file with some acquisition information
 # normally a *.txt file that is suitable for the above acqp variable would have the next two lines (of course without the symbol # in the beginning)
 #0 -1 0 0.1
