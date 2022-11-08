@@ -23,7 +23,7 @@ do
 for smooth in ${smooths}
 do
     echo "Now will work on $dwi - $ccase - $smooth"
-    bash $PWD/dwi_pipe/launch_dwi_pipe_maps.bash $dirData $txt ${t1} $dwi $dwiMask $ccase $smooth
+    bash $PWD/dwi_pipe/launch_dwi_pipe_maps.bash $dirData $dwi $dwiMask $ccase $smooth $txt
 done
 done
 done
